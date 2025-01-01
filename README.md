@@ -1,7 +1,5 @@
 ### Hi there 👋
-I'm currently a Data Science student at the College of William and Mary
-I'm looking to learn rust and develop my software development and machine learning skills. 
-I also really enjoy NLP and hope to puruse that in the future, you can see some of my current projects here
+I'm currently working as a Data Scientist. I work primarily on NLP and LLMs for software engineering. Currently trying to learn Rust.
 <!--
 **cgra21/cgra21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
